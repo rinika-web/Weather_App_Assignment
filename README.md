@@ -85,11 +85,12 @@ JavaScript runtime environment used for running development tools and building t
 
 ## Screenshots� 
 
-https://www.dropbox.com/scl/fi/xwoamnc2aqi00o6zia4cd/Screenshot_20240610_112826_Dropbox.jpg?rlkey=16mxq3aydik2vhfvgnp1rl8xb&dl=0
+![Screenshot_20240610_112826_Dropbox (1)](https://github.com/rinika-web/Weather_App_Assignment/assets/84087885/1bea520e-4e26-4231-8150-d3fb971833a8)
+
 
 **Light Mode
 
-https://www.dropbox.com/scl/fi/qk4r8f5mn3bgoq4qgufwr/Screenshot_20240610_112916_Dropbox.jpg?rlkey=sox9h056i1i429fc29zc1t2h6&dl=0
+![Screenshot_20240610_112916_Dropbox](https://github.com/rinika-web/Weather_App_Assignment/assets/84087885/676f114b-361c-4d4b-b3a8-055e8ef2add1)
 
 **Dark Mode
 
