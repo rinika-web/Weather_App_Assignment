@@ -83,6 +83,15 @@ JavaScript runtime environment used for running development tools and building t
 3.Run the application:
    -npm start
 
+## Screenshots� 
+
+https://www.dropbox.com/scl/fi/xwoamnc2aqi00o6zia4cd/Screenshot_20240610_112826_Dropbox.jpg?rlkey=16mxq3aydik2vhfvgnp1rl8xb&dl=0
+
+**Light Mode
+
+https://www.dropbox.com/scl/fi/qk4r8f5mn3bgoq4qgufwr/Screenshot_20240610_112916_Dropbox.jpg?rlkey=sox9h056i1i429fc29zc1t2h6&dl=0
+
+**Dark Mode
 
 ## Live Demo:
 live demo of the application can be accessed - https://www.dropbox.com/scl/fi/y4tpcnqe7aizw6yginkts/weather_app_demo.flv?rlkey=ktak9jxongft2fmy0ksoxczzm&dl=0
