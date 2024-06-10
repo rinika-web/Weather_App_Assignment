@@ -90,5 +90,7 @@ live demo of the application can be accessed - https://www.dropbox.com/scl/fi/y4
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-## LinkedIn <https://www.linkedin.com/in/rinika-koley-802406253>
-## GitHub <https://github.com/rinika-web>
+**LinkedIn**
+<https://www.linkedin.com/in/rinika-koley-802406253>
+**GitHub**
+ <https://github.com/rinika-web>
