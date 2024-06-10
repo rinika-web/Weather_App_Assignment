@@ -2,7 +2,7 @@
 
 This weather application is a project developed as part of the hiring process for the Frontend Developer intern position at Kraftshala. The application fetches weather data from the OpenWeatherMap API and provides users with current weather information based on their input.
 
-#Features
+## Features
 
 -**User Interface**: 
 
@@ -44,9 +44,9 @@ Clean, readable, and maintainable code with comments and documentation.
 
 The application is designed to work well on various devices, including desktop, tablet, and mobile.
 
-**use opeweatherapi for source 
+**use opeweatherapi for weather  Data
 
-#Technologies 
+## Technologies 
 
 -**UsedHTML**: 
 Markup language for creating the structure of the application.
@@ -71,12 +71,12 @@ Utility-first CSS framework used for styling components and creating responsive 
 
 JavaScript runtime environment used for running development tools and building the application, handle API_KEY, fetch data.
 
-##Installation
+## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/rinika-web/Weather_App_Assignment>
 
 2.Install dependencies:
    -npm install
@@ -84,6 +84,11 @@ JavaScript runtime environment used for running development tools and building t
    -npm start
 
 
-#Screenshots:
+## Live Demo:
+live demo of the application can be accessed - https://www.dropbox.com/scl/fi/y4tpcnqe7aizw6yginkts/weather_app_demo.flv?rlkey=ktak9jxongft2fmy0ksoxczzm&dl=0
 
-Light Mode� Dark ModeLive DemoA live demo of the application can be accessed here.ContributingContributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+## LinkedIn <https://www.linkedin.com/in/rinika-koley-802406253>
+## GitHub <https://github.com/rinika-web>
